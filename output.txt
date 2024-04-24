@@ -1,0 +1,60 @@
+LeBron James
+Average shot distance (Not on a streak): 25.88
+Variance: 4.16
+Average streak shot distance: 26.15
+Variance: 4.93
+
+Stephen Curry
+Average shot distance (Not on a streak): 26.64
+Variance: 11.23
+Average streak shot distance: 26.94
+Variance: 11.94
+
+Kevin Durant
+Average shot distance (Not on a streak): 25.24
+Variance: 1.87
+Average streak shot distance: 25.34
+Variance: 2.25
+
+Jordan Poole
+Average shot distance (Not on a streak): 26.32
+Variance: 11.71
+Average streak shot distance: 26.51
+Variance: 9.98
+
+Klay Thompson
+Average shot distance (Not on a streak): 25.47
+Variance: 5.2
+Average streak shot distance: 25.54
+Variance: 2.73
+
+Damian Lillard
+Average shot distance (Not on a streak): 27.08
+Variance: 12.64
+Average streak shot distance: 27.14
+Variance: 7.49
+
+Trae Young
+Average shot distance (Not on a streak): 27.2
+Variance: 11.46
+Average streak shot distance: 27.24
+Variance: 9.32
+
+Jayson Tatum
+Average shot distance (Not on a streak): 25.48
+Variance: 5.49
+Average streak shot distance: 25.48
+Variance: 2.37
+
+Fred VanVleet
+Average shot distance (Not on a streak): 26.05
+Variance: 14.07
+Average streak shot distance: 26.04
+Variance: 8.12
+
+Zach LaVine
+Average shot distance (Not on a streak): 25.37
+Variance: 4.91
+Average streak shot distance: 25.53
+Variance: 3.42
+
