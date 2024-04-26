@@ -67,4 +67,3 @@ Variance: 4.43
 Average streak shot distance: 25.86
 Variance: 2.98
 T-test result - t-statistic: -0.49, p-value: 0.63
-
